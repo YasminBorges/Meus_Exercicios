@@ -1,0 +1,15 @@
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/bin/Debug/net6.0/Exerc3_Fatu_Mensal
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/bin/Debug/net6.0/Exerc3_Fatu_Mensal.deps.json
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/bin/Debug/net6.0/Exerc3_Fatu_Mensal.runtimeconfig.json
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/bin/Debug/net6.0/Exerc3_Fatu_Mensal.dll
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/bin/Debug/net6.0/Exerc3_Fatu_Mensal.pdb
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.csproj.AssemblyReference.cache
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.AssemblyInfoInputs.cache
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.AssemblyInfo.cs
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.csproj.CoreCompileInputs.cache
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.dll
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/refint/Exerc3_Fatu_Mensal.dll
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.pdb
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/Exerc3_Fatu_Mensal.genruntimeconfig.cache
+/home/usuario/Meus_Cursos/Exerc3_Fatu_Mensal/obj/Debug/net6.0/ref/Exerc3_Fatu_Mensal.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exerc3_Fatu_Mensal/1.0.0": {
+        "runtime": {
+          "Exerc3_Fatu_Mensal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc3_Fatu_Mensal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
