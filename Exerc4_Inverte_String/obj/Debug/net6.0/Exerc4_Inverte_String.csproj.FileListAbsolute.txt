@@ -1,0 +1,15 @@
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/bin/Debug/net6.0/Exerc4_Inverte_String
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/bin/Debug/net6.0/Exerc4_Inverte_String.deps.json
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/bin/Debug/net6.0/Exerc4_Inverte_String.runtimeconfig.json
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/bin/Debug/net6.0/Exerc4_Inverte_String.dll
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/bin/Debug/net6.0/Exerc4_Inverte_String.pdb
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.csproj.AssemblyReference.cache
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.AssemblyInfoInputs.cache
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.AssemblyInfo.cs
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.csproj.CoreCompileInputs.cache
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.dll
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/refint/Exerc4_Inverte_String.dll
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.pdb
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/Exerc4_Inverte_String.genruntimeconfig.cache
+/home/usuario/Meus_Cursos/Exerc4_Inverte_String/obj/Debug/net6.0/ref/Exerc4_Inverte_String.dll
