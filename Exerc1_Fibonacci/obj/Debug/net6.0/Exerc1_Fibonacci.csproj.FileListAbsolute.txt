@@ -1,0 +1,15 @@
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/bin/Debug/net6.0/Exerc1_Fibonacci
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/bin/Debug/net6.0/Exerc1_Fibonacci.deps.json
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/bin/Debug/net6.0/Exerc1_Fibonacci.runtimeconfig.json
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/bin/Debug/net6.0/Exerc1_Fibonacci.dll
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/bin/Debug/net6.0/Exerc1_Fibonacci.pdb
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.csproj.AssemblyReference.cache
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.AssemblyInfoInputs.cache
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.AssemblyInfo.cs
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.csproj.CoreCompileInputs.cache
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.dll
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/refint/Exerc1_Fibonacci.dll
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.pdb
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/Exerc1_Fibonacci.genruntimeconfig.cache
+/home/usuario/Meus_Cursos/Exerc1_Fibonacci/obj/Debug/net6.0/ref/Exerc1_Fibonacci.dll
